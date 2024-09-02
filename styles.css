@@ -10,10 +10,11 @@
 
 #list {
     background-color: burlywood;
-    margin: auto;
-    padding: auto;
+    margin: 15px;
+    padding: 2px;
     justify-content: center;
-    border-radius: 1%;
+    border-radius: 7px;
+    
 }
 
 #burg {
