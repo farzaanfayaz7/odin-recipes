@@ -1,0 +1,23 @@
+#head {
+    background-color: black;
+    text-align: center;
+    color: white;
+    padding: auto;
+    margin: auto;
+    justify-content: center;
+    border-radius: 15px;
+}
+
+#list {
+    background-color: burlywood;
+    margin: auto;
+    padding: auto;
+    justify-content: center;
+    border-radius: 1%;
+}
+
+#burg {
+    background-color:black ;
+    
+
+}
